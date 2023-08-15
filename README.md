@@ -19,6 +19,10 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 •	IDE Tool: Eclipse IDE.
 
+# Test Report 
+HTML Report
+![image (1)](https://github.com/ajaygujjar424/OrangeHRM/assets/127547339/0449a134-9336-401e-a32f-e0da3885aec5)
+
 # Setting up TestNG in Eclipse involves a few steps to configure and use this testing framework for your Java projects. TestNG is a popular testing framework for Java that makes it easier to write and execute tests. Here's
 **how you can set up TestNG in Eclipse:
 1. **Install TestNG**:
@@ -64,9 +68,3 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 7. **View TestNG Results**:
    TestNG results will be displayed in the "TestNG" view in Eclipse. You can open this view by going to "Window" > "Show View" > "Other" > "TestNG."
-
-
-
-# Test Report 
-HTML Report
-![image (1)](https://github.com/ajaygujjar424/OrangeHRM/assets/127547339/0449a134-9336-401e-a32f-e0da3885aec5)
