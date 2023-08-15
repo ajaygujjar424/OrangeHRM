@@ -5,7 +5,7 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 # Technology and Tool Used
 
-• Testing:Automation Testing.
+• Testing: Automation Testing.
 
 •	Programming Language: Core Java.
 
