@@ -22,48 +22,35 @@ OrangeHRM is a Human Resource Management (HRM) application that includes both th
 HTML Report
 ![image (1)](https://github.com/ajaygujjar424/OrangeHRM/assets/127547339/0449a134-9336-401e-a32f-e0da3885aec5)
 
-# Setting up TestNG in Eclipse involves a few steps to configure and use this testing framework for your Java projects. TestNG is a popular testing framework for Java that makes it easier to write and execute tests. Here's
-**how you can set up TestNG in Eclipse:
-1. **Install TestNG**:
-   Before you begin, make sure you have Eclipse installed on your system. If you don't have TestNG installed in your Eclipse, you'll need to install it. To install TestNG, follow these steps:
+# TestNG Automation Project Setup
 
-   - Open Eclipse.
-   - Go to the "Help" menu.
-   - Select "Eclipse Marketplace."
-   - In the "Eclipse Marketplace" dialog, search for "TestNG."
-   - Install the TestNG plugin.
+This guide outlines the steps to set up a TestNG project for automation testing using Eclipse.
 
-2. **Create a Java Project**:
-   If you don't already have a Java project, create a new Java project in Eclipse. You can do this by going to "File" > "New" > "Java Project."
+#Prerequisites
 
-3. **Add Libraries**:
-   Once you have your Java project created, you need to add the TestNG library to your project's build path:
+- Eclipse IDE
+- Java Development Kit (JDK)
+- TestNG plugin installed in Eclipse
 
-   - Right-click on your project in the Project Explorer.
-   - Select "Build Path" > "Configure Build Path."
-   - In the "Libraries" tab, click on "Add Library."
-   - Select "TestNG" from the list and click "Next."
-   - Choose the TestNG version you want to use (if applicable) and click "Finish."
-   - Click "Apply and Close" to save the changes.
+#Steps
 
-4. **Create TestNG Test Classes**:
-   Now you can create your TestNG test classes:
+1. **Install TestNG Plugin**: If not installed, go to "Help" > "Eclipse Marketplace" and search for "TestNG." Install the plugin.
 
-   - Right-click on your project or a specific package where you want to create the test class.
-   - Go to "New" > "Other."
-   - Search for "TestNG Class" and select it.
-   - Click "Next."
-   - Enter the class name and select the methods you want to include in this test class.
-   - Click "Finish."
+2. **Create Java Project**: Go to "File" > "New" > "Java Project" and name your project.
 
-5. **Write TestNG Tests**:
-   Open the created TestNG test class and start writing your test methods using the TestNG annotations like `@Test`, `@BeforeMethod`, `@AfterMethod`, etc.
+3. **Add Dependencies**: If needed, add external libraries or WebDriver dependencies to your project.
 
-6. **Run TestNG Tests**:
-   You can now run your TestNG tests:
+4. **Create Packages**: Organize your project by creating packages for different functional areas or test types.
 
-   - Right-click on the test class or test method.
-   - Select "Run As" > "TestNG Test."
+5. **Create Test Classes**: Inside packages, create test classes. Define test methods using TestNG annotations.
 
-7. **View TestNG Results**:
-   TestNG results will be displayed in the "TestNG" view in Eclipse. You can open this view by going to "Window" > "Show View" > "Other" > "TestNG."
+6. **Run Tests**: Right-click on a test class or method, choose "Run As" > "TestNG Test" to execute tests.
+
+7. **Optional: TestNG XML Configuration**: Create a TestNG XML file for complex test setups.
+
+8. **View Results**: Check the "TestNG" view in Eclipse for test execution results.
+
+
+
+
+---
