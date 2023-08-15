@@ -1,6 +1,5 @@
 # Testing OrangeHRM Demo 
-# Website
-# Link:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+# Website: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
 
 It is Human Resources Management (HRM) application includes HRM Admin module and ESS (Employee Self Service) module.
 
