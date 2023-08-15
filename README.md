@@ -3,7 +3,7 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
 
 # Features
-Selenium Webdriver
-TestNG Framework
-Robot Class
-Parallel Testing
+1.Selenium Webdriver
+2.TestNG Framework
+3.Robot Class
+4.Parallel Testing
