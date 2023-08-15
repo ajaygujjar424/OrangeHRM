@@ -4,7 +4,8 @@
 
 It is Human Resources Management (HRM) application includes HRM Admin module and ESS (Employee Self Service) module.
 
-# Features
+# Technology and Tool Used
+
 •   Testing:Automation Testing.
 
 •	Programming Language: Core Java.
