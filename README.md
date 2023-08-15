@@ -50,7 +50,3 @@ Steps to set up a TestNG project for automation testing using Eclipse.
 
 8. **View Results**: Check the "TestNG" view in Eclipse for test execution results.
 
-
-
-
----
