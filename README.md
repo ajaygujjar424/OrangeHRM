@@ -5,11 +5,11 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 # Technology and Tool Used
 
-•   Testing:Automation Testing.
+• Testing:Automation Testing.
 
 •	Programming Language: Core Java.
 
-•	Automation Tool: Selenium Webdriver.
+•	Automation Tool: Selenium Webdriver version: 3.141.59
 
 •	Java Frameworks: TestNG, Page object Model (POM) Robot Class Parallel Testing.
 
