@@ -9,5 +9,6 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 3.Robot Class
 4.Parallel Testing
 
-# Report 
+# Test Report 
+HTML Report
 ![image (1)](https://github.com/ajaygujjar424/OrangeHRM/assets/127547339/0449a134-9336-401e-a32f-e0da3885aec5)
