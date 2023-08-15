@@ -24,7 +24,7 @@ HTML Report
 
 # TestNG Automation Project Setup
 
-This guide outlines the steps to set up a TestNG project for automation testing using Eclipse.
+Steps to set up a TestNG project for automation testing using Eclipse.
 
 #Prerequisites
 
