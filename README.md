@@ -5,19 +5,19 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 # Technology and Tool Used
 
-• Testing: Automation Testing.
+• Testing: Automation Testing
 
-•	Programming Language: Java.
+•	Programming Language: Java
 
 •	Automation Tool: Selenium Webdriver version: 3.141.59
 
-•	Java Frameworks: TestNG, Page object Model (POM) Robot Class Parallel Testing.
+•	Java Frameworks: TestNG, Page object Model (POM) Robot Class Parallel Testing
 
 •	Version Control: GIT and GitHub
 
-•	Defect Tacking Tool: JIRA.
+•	Defect Tacking Tool: JIRA
 
-•	IDE Tool: Eclipse IDE.
+•	IDE Tool: Eclipse IDE
 
 # Test Report 
 HTML Report
