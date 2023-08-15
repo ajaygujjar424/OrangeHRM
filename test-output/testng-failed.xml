@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ParallelTestSuite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="orangeHRM.Login">
+        <methods>
+          <include name="setUp"/>
+          <include name="testLoginData"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- orangeHRM.Login -->
+      <class name="orangeHRM.Nopcommerce">
+        <methods>
+          <include name="verifyRegistrationAndLogin"/>
+          <include name="addToCart"/>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- orangeHRM.Nopcommerce -->
+      <class name="orangeHRM.OrangeHRM">
+        <methods>
+          <include name="Pim"/>
+          <include name="Login"/>
+          <include name="Performance"/>
+          <include name="Generalinfon"/>
+          <include name="Req"/>
+          <include name="Terminate"/>
+          <include name="Admin"/>
+          <include name="Job"/>
+          <include name="Qualification"/>
+          <include name="Generalinfo"/>
+          <include name="Workshift"/>
+          <include name="testLogindata"/>
+        </methods>
+      </class> <!-- orangeHRM.OrangeHRM -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [ParallelTestSuite] -->
