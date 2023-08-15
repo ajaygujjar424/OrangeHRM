@@ -7,3 +7,6 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 2.TestNG Framework
 3.Robot Class
 4.Parallel Testing
+
+# Report 
+![image (1)](https://github.com/ajaygujjar424/OrangeHRM/assets/127547339/0449a134-9336-401e-a32f-e0da3885aec5)
