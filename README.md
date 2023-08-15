@@ -4,8 +4,10 @@
 It is Human Resources Management (HRM) application includes HRM Admin module and ESS (Employee Self Service) module.
 
 # Features
-•	Testing:Automation Testing.
+• Testing:Automation Testing.
+
 •	Programming Language: Core Java.
+
 •	Automation Tool: Selenium Webdriver.
 •	Java Frameworks: TestNG, Page object Model (POM) Robot Class Parallel Testing.
 •	Version Control: GIT and GitHub
