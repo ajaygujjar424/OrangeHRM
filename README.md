@@ -7,7 +7,7 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 • Testing: Automation Testing.
 
-•	Programming Language: Core Java.
+•	Programming Language: Java.
 
 •	Automation Tool: Selenium Webdriver version: 3.141.59
 
