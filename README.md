@@ -19,12 +19,52 @@ It is Human Resources Management (HRM) application includes HRM Admin module and
 
 •	IDE Tool: Eclipse IDE.
 
+# Setting up TestNG in Eclipse involves a few steps to configure and use this testing framework for your Java projects. TestNG is a popular testing framework for Java that makes it easier to write and execute tests. Here's
+**how you can set up TestNG in Eclipse:
+1. **Install TestNG**:
+   Before you begin, make sure you have Eclipse installed on your system. If you don't have TestNG installed in your Eclipse, you'll need to install it. To install TestNG, follow these steps:
 
-# Features
-1.Selenium Webdriver
-2.TestNG Framework
-3.Robot Class
-4.Parallel Testing
+   - Open Eclipse.
+   - Go to the "Help" menu.
+   - Select "Eclipse Marketplace."
+   - In the "Eclipse Marketplace" dialog, search for "TestNG."
+   - Install the TestNG plugin.
+
+2. **Create a Java Project**:
+   If you don't already have a Java project, create a new Java project in Eclipse. You can do this by going to "File" > "New" > "Java Project."
+
+3. **Add Libraries**:
+   Once you have your Java project created, you need to add the TestNG library to your project's build path:
+
+   - Right-click on your project in the Project Explorer.
+   - Select "Build Path" > "Configure Build Path."
+   - In the "Libraries" tab, click on "Add Library."
+   - Select "TestNG" from the list and click "Next."
+   - Choose the TestNG version you want to use (if applicable) and click "Finish."
+   - Click "Apply and Close" to save the changes.
+
+4. **Create TestNG Test Classes**:
+   Now you can create your TestNG test classes:
+
+   - Right-click on your project or a specific package where you want to create the test class.
+   - Go to "New" > "Other."
+   - Search for "TestNG Class" and select it.
+   - Click "Next."
+   - Enter the class name and select the methods you want to include in this test class.
+   - Click "Finish."
+
+5. **Write TestNG Tests**:
+   Open the created TestNG test class and start writing your test methods using the TestNG annotations like `@Test`, `@BeforeMethod`, `@AfterMethod`, etc.
+
+6. **Run TestNG Tests**:
+   You can now run your TestNG tests:
+
+   - Right-click on the test class or test method.
+   - Select "Run As" > "TestNG Test."
+
+7. **View TestNG Results**:
+   TestNG results will be displayed in the "TestNG" view in Eclipse. You can open this view by going to "Window" > "Show View" > "Other" > "TestNG."
+
 
 
 # Test Report 
