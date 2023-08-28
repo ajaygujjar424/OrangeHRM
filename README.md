@@ -10,7 +10,7 @@ OrangeHRM is a Human Resource Management (HRM) application that includes both th
 
 •	Automation Tool: Selenium Webdriver version: 3.141.59
 
-•	Java Frameworks: TestNG, Page object Model (POM) Robot Class Parallel Testing
+•	Java Frameworks: TestNG, Maven, Robot Class Parallel Testing
 
 •	Version Control: GIT and GitHub
 
