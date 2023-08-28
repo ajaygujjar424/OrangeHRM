@@ -34,19 +34,19 @@ Steps to set up a TestNG project for automation testing using Eclipse.
 
 #Steps
 
-1. **Install TestNG Plugin**: If not installed, go to "Help" > "Eclipse Marketplace" and search for "TestNG." Install the plugin.
+1. **Install TestNG Plugin**
 
-2. **Create Java Project**: Go to "File" > "New" > "Java Project" and name your project.
+2. **Create Java Project**
 
-3. **Add Dependencies**: If needed, add external libraries or WebDriver dependencies to your project.
+3. **Add Dependencies**
 
-4. **Create Packages**: Organize your project by creating packages for different functional areas or test types.
+4. **Create Packages**
 
-5. **Create Test Classes**: Inside packages, create test classes. Define test methods using TestNG annotations.
+5. **Create Test Classes**
 
-6. **Run Tests**: Right-click on a test class or method, choose "Run As" > "TestNG Test" to execute tests.
+6. **Run Tests**
 
-7. **Optional: TestNG XML Configuration**: Create a TestNG XML file for complex test setups.
+7. **Optional: TestNG XML Configuration**
 
-8. **View Results**: Check the "TestNG" view in Eclipse for test execution results.
+8. **View Results**
 
